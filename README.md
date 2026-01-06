@@ -1,14 +1,14 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<h1 align="center"><b>Hola, Soy Carlos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### 👨‍💻&nbsp; Sobre mí
 
 🎓 &nbsp;Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.\
-
 💡 &nbsp; Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.\
-
-🌱 En este momento estoy reforzando mis conocimientos en desarrollo backend, estructuras de datos y fundamentos de diseño de software, con el objetivo de crecer profesionalmente en el área tecnológica.
-📚 Trabajo constantemente en proyectos académicos y personales (como sistemas de gestión), buscando crear un portafolio que refleje mi progreso, disciplina y compromiso con el aprendizaje continuo.
-🚀 Mi meta es especializarme en una rama con alta demanda, aportar valor en equipos de desarrollo y seguir mejorando tanto a nivel técnico como profesional.
-💬 Siempre estoy abierto a feedback, aprendizaje y colaboración, ya que considero que la mejora constante es clave para convertirme en un mejor desarrollador.
-✉️ Puedes contactarme por correo electrónico: 📧 [quinterogiancarlos28@gmail.com](mailto:quinterogiancarlos28@gmail.com)  : responderé lo antes posible.
+🌱 &nbsp;En este momento estoy reforzando mis conocimientos en desarrollo backend, estructuras de datos y fundamentos de diseño de software, con el objetivo de crecer profesionalmente en el área tecnológica.\
+📚 &nbsp;Trabajo constantemente en proyectos académicos y personales (como sistemas de gestión), buscando crear un portafolio que refleje mi progreso, disciplina y compromiso con el aprendizaje continuo.\
+🚀 &nbsp;Mi meta es especializarme en una rama con alta demanda, aportar valor en equipos de desarrollo y seguir mejorando tanto a nivel técnico como profesional.\
+💬 &nbsp;Siempre estoy abierto a feedback, aprendizaje y colaboración, ya que considero que la mejora constante es clave para convertirme en un mejor desarrollador.\
+✉️ &nbsp;Puedes contactarme por correo electrónico: 📧 [quinterogiancarlos28@gmail.com](mailto:quinterogiancarlos28@gmail.com)  : responderé lo antes posible.\
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -42,3 +42,9 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
 </p>
+----
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
