@@ -1,7 +1,7 @@
-### 👨‍💻 Sobre mí
+### 👨‍💻&nbsp; Sobre mí
 
-🎓 Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.
-💡 Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.
+🎓 &nbsp;Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.\
+💡 &nbsp; Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.\
 🌱 En este momento estoy reforzando mis conocimientos en desarrollo backend, estructuras de datos y fundamentos de diseño de software, con el objetivo de crecer profesionalmente en el área tecnológica.
 📚 Trabajo constantemente en proyectos académicos y personales (como sistemas de gestión), buscando crear un portafolio que refleje mi progreso, disciplina y compromiso con el aprendizaje continuo.
 🚀 Mi meta es especializarme en una rama con alta demanda, aportar valor en equipos de desarrollo y seguir mejorando tanto a nivel técnico como profesional.
@@ -19,7 +19,7 @@
 ### 🗃 &nbsp;Base De Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Control De Version & Herramientas
+### 🧰 &nbsp;Control De Versiones & Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
