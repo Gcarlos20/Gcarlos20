@@ -1,7 +1,9 @@
 ### 👨‍💻&nbsp; Sobre mí
 
 🎓 &nbsp;Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.\
+
 💡 &nbsp; Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.\
+
 🌱 En este momento estoy reforzando mis conocimientos en desarrollo backend, estructuras de datos y fundamentos de diseño de software, con el objetivo de crecer profesionalmente en el área tecnológica.
 📚 Trabajo constantemente en proyectos académicos y personales (como sistemas de gestión), buscando crear un portafolio que refleje mi progreso, disciplina y compromiso con el aprendizaje continuo.
 🚀 Mi meta es especializarme en una rama con alta demanda, aportar valor en equipos de desarrollo y seguir mejorando tanto a nivel técnico como profesional.
