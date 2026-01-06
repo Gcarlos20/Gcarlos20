@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center"><b>Hola, Soy Carlos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-### 👨‍💻&nbsp; Sobre mí
+👨‍💻&nbsp; Sobre mí
 
 🎓 &nbsp;Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.\
 💡 &nbsp; Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.\
@@ -26,6 +26,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
