@@ -26,11 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gcarlos20&show_icons=true&theme=tokyonight)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarlos20&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=Gcarlos20&theme=tokyonight)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas Operativo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
