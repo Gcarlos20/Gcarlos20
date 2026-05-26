@@ -2,31 +2,51 @@
 <h1 align="center"><b>Hola, Soy Carlos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 👨‍💻&nbsp; Sobre mí
 
-🎓 &nbsp;Soy estudiante de desarrollo de software, con enfoque en backend y una base en Java y programación orientada a objetos. Actualmente estoy fortaleciendo mis conocimientos en lógica, estructuras de datos y control de versiones con Git y GitHub.\
-💡 &nbsp; Me interesa comprender el desarrollo de software de forma integral, por lo que también estoy construyendo bases en desarrollo web, con el objetivo de evolucionar hacia un perfil fullstack junior a mediano plazo.\
-🌱 &nbsp;En este momento estoy reforzando mis conocimientos en desarrollo backend, estructuras de datos y fundamentos de diseño de software, con el objetivo de crecer profesionalmente en el área tecnológica.\
-📚 &nbsp;Trabajo constantemente en proyectos académicos y personales (como sistemas de gestión), buscando crear un portafolio que refleje mi progreso, disciplina y compromiso con el aprendizaje continuo.\
-🚀 &nbsp;Mi meta es especializarme en una rama con alta demanda, aportar valor en equipos de desarrollo y seguir mejorando tanto a nivel técnico como profesional.\
-💬 &nbsp;Siempre estoy abierto a feedback, aprendizaje y colaboración, ya que considero que la mejora constante es clave para convertirme en un mejor desarrollador.\
-✉️ &nbsp;Puedes contactarme por correo electrónico: 📧 [quinterogiancarlos28@gmail.com](mailto:quinterogiancarlos28@gmail.com)  : responderé lo antes posible.\
+Estudiante de Tecnología en Sistemas de Información · Colombia 🇨🇴
+## Sobre mí
 
-### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+Soy estudiante de Tecnología en Sistemas de Información, construyendo
+mis bases en desarrollo de software con enfoque en Java, lógica de
+programación y resolución de problemas reales con código.
+
+Me apasiona entender cómo funcionan las cosas por dentro — desde un
+algoritmo sencillo hasta una aplicación completa. Cada proyecto que
+construyo es una oportunidad de aplicar lo que aprendo y descubrir
+lo que aún me falta.
+
+> Siempre aprendiendo. Siempre construyendo.
+
+✉️ &nbsp;Puedes contactarme por correo electrónico: 📧 [quinterogiancarlos28@gmail.com](mailto:quinterogiancarlos28@gmail.com)  : responderé lo antes posible.
+
+### 🛠 &nbsp;Tecnologías y herramientas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### 🗃 &nbsp;Base De Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Control De Versiones & Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+## Actualmente
+
+- 🎓 Cursando Tecnología en Sistemas de Información
+- ☕ Profundizando en Java — POO, estructuras de datos y patrones de lógica
+- 🐍 Explorando Python como segundo lenguaje de programación
+- 🌱 Desarrollando proyectos propios para fortalecer mi portafolio
+- 🔍 Aprendiendo buenas prácticas: código limpio, control de versiones y documentación
+- 📍 Cali, Colombia
+
+---
+> *Siempre aprendiendo. Siempre construyendo.*
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas Operativo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
