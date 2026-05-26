@@ -1,9 +1,8 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h1 align="center"><b>Hola, Soy Carlos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-👨‍💻&nbsp; Sobre mí
 
 Estudiante de Tecnología en Sistemas de Información · Colombia 🇨🇴
-## Sobre mí
+👨‍💻&nbsp; Sobre mí
 
 Soy estudiante de Tecnología en Sistemas de Información, construyendo
 mis bases en desarrollo de software con enfoque en Java, lógica de
@@ -46,7 +45,6 @@ lo que aún me falta.
 - 📍 Cali, Colombia
 
 ---
-> *Siempre aprendiendo. Siempre construyendo.*
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Sistemas Operativo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
